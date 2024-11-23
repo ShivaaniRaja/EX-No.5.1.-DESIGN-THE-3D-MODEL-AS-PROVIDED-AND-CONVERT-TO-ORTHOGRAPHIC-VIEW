@@ -37,6 +37,7 @@ Switch to drawing mode from design mode
 
 
 ## OUTPUT
+![ex 5 1 Drawing v0_page-0001](https://github.com/user-attachments/assets/03c603ca-cc05-4d0c-bc1e-e24391e5235e)
 
 
 ## RESULT:
